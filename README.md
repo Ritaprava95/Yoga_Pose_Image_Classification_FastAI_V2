@@ -1,6 +1,6 @@
 # Yoga_Pose_Image_Cassicication_FastAI_V2
 
-# This repo is to demonstrate how to p[erform a classificatiuon task in FastAI V2
+# This repo is to demonstrate how to perform an image classificatiuon task in FastAI V2
 
 # Make enviromment using anaconda
 
