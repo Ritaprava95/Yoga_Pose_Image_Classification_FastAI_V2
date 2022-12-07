@@ -8,7 +8,7 @@ conda create -n fai_v2 python=3.8
 
 conda activate fai_v2
 
-conda install -c pytorch fastai
+conda install -c fastai -c pytorch fastai
 
 conda install jupyter
 
